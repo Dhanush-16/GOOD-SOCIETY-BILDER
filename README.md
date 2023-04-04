@@ -1,4 +1,4 @@
-#open the above link in any browser
+#copy the above link and open in any browser
 
 
 
